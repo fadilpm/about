@@ -1,0 +1,72 @@
+Uri: https://www.xditya.me/
+File Name: C:\Downloaded Web Sites\www.xditya.me\index.htm
+Content Type: text/html
+
+Uri: https://fonts.googleapis.com/css2?family=Cutive+Mono&family=Poppins:wght@100;200;300;400;500;600;700&display=swap
+File Name: C:\Downloaded Web Sites\www.xditya.me\css2.css
+Content Type: text/css
+
+Uri: https://www.xditya.me/src/style.css
+File Name: C:\Downloaded Web Sites\www.xditya.me\src\style.css
+Content Type: text/css
+
+Uri: https://github.com/xditya
+File Name: C:\Downloaded Web Sites\www.xditya.me\xditya.html
+Content Type: text/html
+
+Uri: https://twitter.com/its_xditya
+File Name: C:\Downloaded Web Sites\www.xditya.me\its_xditya.html
+Content Type: text/html
+
+Uri: https://kit.fontawesome.com/a81368914c.js
+File Name: C:\Downloaded Web Sites\www.xditya.me\a81368914c.js
+Content Type: text/javascript
+
+Uri: https://cdn.jsdelivr.net/gh/cachecleanerjeet/contact-form@master/src/contact-form.min.js
+File Name: C:\Downloaded Web Sites\www.xditya.me\gh\cachecleanerjeet\contact-form@master\src\contact-form.min.js
+Content Type: application/javascript
+
+Uri: https://www.xditya.me/src/app.js
+File Name: C:\Downloaded Web Sites\www.xditya.me\src\app.js
+Content Type: application/javascript
+
+Uri: https://fonts.googleapis.com/css2?family=Titillium+Web:ital@1&display=swap
+File Name: C:\Downloaded Web Sites\www.xditya.me\css2-1.css
+Content Type: text/css
+
+Uri: https://www.xditya.me/imgs/dark_bg.jpg
+File Name: C:\Downloaded Web Sites\www.xditya.me\imgs\dark_bg.jpg
+Content Type: image/jpeg
+
+Uri: https://www.xditya.me/imgs/light_bg.jpg
+File Name: C:\Downloaded Web Sites\www.xditya.me\imgs\light_bg.jpg
+Content Type: image/jpeg
+
+Uri: https://www.xditya.me/yt/
+File Name: C:\Downloaded Web Sites\www.xditya.me\yt\index.htm
+Content Type: text/html
+
+Uri: https://www.xditya.me/github/
+File Name: C:\Downloaded Web Sites\www.xditya.me\github\index.htm
+Content Type: text/html
+
+Uri: https://www.xditya.me/tg/
+File Name: C:\Downloaded Web Sites\www.xditya.me\tg\index.htm
+Content Type: text/html
+
+Uri: https://www.xditya.me/bots/
+File Name: C:\Downloaded Web Sites\www.xditya.me\bots\index.htm
+Content Type: text/html
+
+Uri: https://telegram.org/js/telegram-widget.js?14
+File Name: C:\Downloaded Web Sites\www.xditya.me\js\telegram-widget.js
+Content Type: application/javascript
+
+Uri: https://www.youtube.com/xditya
+File Name: C:\Downloaded Web Sites\www.xditya.me\xditya-1.html
+Content Type: text/html
+
+Uri: https://www.youtube.com/c/xditya
+File Name: C:\Downloaded Web Sites\www.xditya.me\c\xditya.html
+Content Type: text/html
+
